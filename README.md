@@ -8,5 +8,5 @@ This contains all of my pet projects,kaggle problems.
 <li>tmdbdata.ipynb contains data wrangling for building a recommendation system.
 </li>
 <li>
-  top250_imdb_data_scraping.ipynb- I did Web Scraping for top_250 using BeautifulSoup from Imdb website. 
+  top250_imdb_data_scraping.ipynb- I did Web Scraping (without using API)for top_250 using BeautifulSoup from Imdb website. 
 </li>
